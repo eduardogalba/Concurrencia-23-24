@@ -1,4 +1,4 @@
-package segundoParcial;
+package segundoparcial;
 
 import es.upm.babel.cclib.Monitor;
 

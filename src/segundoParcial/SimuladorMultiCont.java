@@ -1,4 +1,4 @@
-package segundoParcial;
+package segundoparcial;
 
 
 public class SimuladorMultiCont {

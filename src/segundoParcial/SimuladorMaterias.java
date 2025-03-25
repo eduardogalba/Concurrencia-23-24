@@ -1,4 +1,4 @@
-package segundoParcial;
+package segundoparcial;
 
 import org.jcsp.lang.CSProcess;
 import org.jcsp.lang.Parallel;

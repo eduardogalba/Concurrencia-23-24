@@ -1,4 +1,4 @@
-package MultiBuffer;
+package multibuffer;
 
 import java.util.Collection;
 import java.util.Iterator;

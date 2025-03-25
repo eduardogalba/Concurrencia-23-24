@@ -1,4 +1,4 @@
-package MultiBuffer;
+package multibuffer;
 
 import es.upm.babel.cclib.Producto;
 
