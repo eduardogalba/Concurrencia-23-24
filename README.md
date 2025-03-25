@@ -17,6 +17,7 @@ Repositorio con todos los ejercicios prácticos realizados durante el curso de C
 5. **Patrones de diseño concurrente**
    - Garantizar exclusión mutua
    - Sincronización por Condición
+   - Paso de Mensajes
    - Ausencia de Alternancia Estricta
    - Ausencia de Interbloqueos (*deadlocks*/*livelocks*)
    - Ausencia de Inanición (*starving*)
