@@ -8,7 +8,7 @@ Repositorio con todos los ejercicios prácticos realizados durante el curso de C
    - Implementación `Runnable`
 3. **Sincronización con:**
    - `synchronized`
-   - `semaphore`
+   - Clase `Semaphore`
 4. **Monitores**
    - Clase `Monitor`
    - Clase `Monitor.Cond`
